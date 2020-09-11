@@ -1,0 +1,49 @@
+.container {
+  display: grid;
+  grid-gap: 25px 25px;
+  grid-template-columns: repeat(3, 2fr);
+  grid-template-rows: repeat(3, 2fr);
+}
+
+/* .image1 {
+width: 100%;
+height: 100%;
+}
+
+.image2 {
+  width: 100%;
+  height: 100%;
+  }
+  
+.image3 {
+  width: 100%;
+  height: 100%;
+  }
+
+.image4 {
+    width: 100%;
+    height: 100%;
+    }
+    
+.image5 {
+  width: 100%;
+  height: 100%;
+  }
+
+.image6 {
+    width: 100%;
+    height: 100%;
+    }
+    
+.image7 {
+  width: 100%;
+  height: 100%;
+  }
+.image8 {
+    width: 100%;
+    height: 100%;
+    }
+.image9 {
+      width: 100%;
+      height: 100%;
+      } */
